@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://dewa138online.jmarchini.org/sitemap.xml
+Sitemap : http://maxwin168.org.zra.com/sitemap.xml
